@@ -1,0 +1,54 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: chocolate;
+color: burlywood;
+margin: 20px;
+padding: 20px;
+}
+.title{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: blue;
+text-align: center;
+}
+
+
+.introduction{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: medium;
+line-height: 1px;
+
+}
+#car{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font: bold;
+color: darkseagreen;
+font-display: 10px;
+font-style: italic;
+
+}
+#Top header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgoldenrod;
+    text-align: center;
+padding: 30px;
+margin-bottom: 25px;
+border: 10px; 
+border-bottom: 3px solid #2980b9;
+
+}
+
+.box model{
+background-color: 10px;
+padding: 13px;
+margin: 0%;
+border: 1px solid black;
+border-radius: 6px;
+
+}
+.image{
+display: block;
+margin: 20px;
+box-shadow:0 4px 13px rgba(0, 0, 0, 0.3);
+border: 3px solid black;
+border-radius: 12px;
+}
